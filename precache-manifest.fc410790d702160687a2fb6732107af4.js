@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c24da83697f16110ed02b5c260fe36b6",
+    "revision": "a1b9caa0b76e7cf07a280730b45a9f30",
     "url": "/entregadeepi/index.html"
   },
   {
-    "revision": "5a6f12396bf35b4cbc58",
+    "revision": "e8814506442536722603",
     "url": "/entregadeepi/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "37aaa6588b9ba46fffaf",
-    "url": "/entregadeepi/static/js/2.58fab265.chunk.js"
+    "revision": "be67b88bb055b347e7fb",
+    "url": "/entregadeepi/static/js/2.527064db.chunk.js"
   },
   {
-    "revision": "5a6f12396bf35b4cbc58",
-    "url": "/entregadeepi/static/js/main.7fa5a434.chunk.js"
+    "revision": "e8814506442536722603",
+    "url": "/entregadeepi/static/js/main.fbb046bf.chunk.js"
   },
   {
     "revision": "b923df2221ca8b0792bc",
