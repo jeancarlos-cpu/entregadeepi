@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/entregadeepi/static/css/main.b100e6da.chunk.css",
-    "main.js": "/entregadeepi/static/js/main.84a515fa.chunk.js",
-    "main.js.map": "/entregadeepi/static/js/main.84a515fa.chunk.js.map",
+    "main.js": "/entregadeepi/static/js/main.3f90e57d.chunk.js",
+    "main.js.map": "/entregadeepi/static/js/main.3f90e57d.chunk.js.map",
     "runtime-main.js": "/entregadeepi/static/js/runtime-main.eb61bc52.js",
     "runtime-main.js.map": "/entregadeepi/static/js/runtime-main.eb61bc52.js.map",
-    "static/js/2.a4cbddb0.chunk.js": "/entregadeepi/static/js/2.a4cbddb0.chunk.js",
-    "static/js/2.a4cbddb0.chunk.js.map": "/entregadeepi/static/js/2.a4cbddb0.chunk.js.map",
+    "static/js/2.016d6be5.chunk.js": "/entregadeepi/static/js/2.016d6be5.chunk.js",
+    "static/js/2.016d6be5.chunk.js.map": "/entregadeepi/static/js/2.016d6be5.chunk.js.map",
     "index.html": "/entregadeepi/index.html",
-    "precache-manifest.1e93dd53adb3011e4a7cf03b74cdf464.js": "/entregadeepi/precache-manifest.1e93dd53adb3011e4a7cf03b74cdf464.js",
+    "precache-manifest.34eb61c3cbb713a85ac5f20096930607.js": "/entregadeepi/precache-manifest.34eb61c3cbb713a85ac5f20096930607.js",
     "service-worker.js": "/entregadeepi/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/entregadeepi/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/entregadeepi/static/media/logo.25bf045c.svg"
